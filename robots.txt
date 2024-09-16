@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://lweam.github.io/DqR/sitemap.DqR.gz
